@@ -14,3 +14,4 @@ print(f"50 days are {50 * calculation_to_units} {name_of_units}")
 print(f"70 days are {70 * calculation_to_units} {name_of_units}")
 print(f"100 days are {100 * calculation_to_units} {name_of_units}")
 print(f"366 days are {366 * calculation_to_units} {name_of_units}")
+
