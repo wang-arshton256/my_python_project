@@ -16,7 +16,8 @@
 #A string is any values for as long as they are surrounded with either double or single quotation marks. Even if it is numbers, when they are surrounded with quotation marks, they become a string.
 
 # Bool
-True 1
-False 0
+True (1)
+False (0)
 
 # Boolean data types are either true of false, 1 or 0.
+    
