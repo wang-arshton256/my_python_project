@@ -7,7 +7,7 @@
 # Float
 84151.51
 -518.841
-#Floating point data type are numbers with a decimal point in them
+#Floating point data type are numbers with a decimal point in them.
 
 # String
 '4.9'
